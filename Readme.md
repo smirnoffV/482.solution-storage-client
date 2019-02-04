@@ -7,5 +7,5 @@
 6) start the project
 
 ### Available commands
-1) SET <key> <value>
-2) GET <key>
+1) SET key value
+2) GET key
