@@ -5,3 +5,7 @@
 4) in the project folder run a command "dep ensure"
 5) set environment variables STORAGE_HOST and STORAGE_HOST
 6) start the project
+
+### Available commands
+1) SET <key> <value>
+2) GET <key>
