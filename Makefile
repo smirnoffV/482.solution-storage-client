@@ -1,3 +1,6 @@
+install:
+	dep ensure -v
+
 build:
 	@echo [ building ]
 	go build -o=./bin/run ./main.go
